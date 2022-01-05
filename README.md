@@ -2,7 +2,7 @@
 Estudante de desenvolvimento mobile, atualmente focado em kotlin, com um pouco de experiencia em Dart e Flutter
 
 
-### Connect with me:
+### Conecte-se comigo:
 
 <p align="left">
 <a href="https://twitter.com/coogustavo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="coogustavo" height="30" width="40" /></a>
@@ -11,5 +11,5 @@ Estudante de desenvolvimento mobile, atualmente focado em kotlin, com um pouco d
 </p>
 
 
-### Languages and Tools
+### Linguagens e ferramentas
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
