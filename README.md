@@ -1,5 +1,5 @@
 # OI 👋, Sou o Gustavo
-Estudante de desenvolvimento mobile, atualmente focado em kotlin, com um pouco de experiencia em Dart e Flutter
+Estudante de desenvolvimento mobile, atualmente focado em kotlin
 
 
 ### Conecte-se comigo:
