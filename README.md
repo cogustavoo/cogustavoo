@@ -10,7 +10,7 @@ perder horas em fóruns procurando aquela solução milagrosa pro kernel do andr
 instalando aquela custom ROOM (CyanogenMod COF COF), enfim depois de perder um pouco o brilho por essas coisas com o passar do tempo,
 vi minha paixão reacender com a programação, me fornecendo desafios constantes, onde posso estar sempre em busca de aprender novas coisas, dar de cara com os desafios e sair buscando formas de como os resolver.
 
-###### Talvez eu não irei lhe entregar a solução no mesmo dia, mas tenho a certeza que não vou descansar até, encontra-la.
+###### Talvez eu não irei lhe entregar a solução no mesmo dia, mas tenho a certeza que não vou descansar até encontra-la.
 
 ### Conecte-se comigo:
 
