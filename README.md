@@ -1,6 +1,5 @@
 # OI 👋, Sou o Gustavo
-**Malabarista nas horas vagas:circus_tent:**  
-**Um dia ainda vou pedalar todo o litoral brasileiro.:bicyclist:**
+
 
 
 Atualmente trabalhando com processos de avaliação de mídia na Amazon Mturk, ajudando os mecanismos de busca a refinarem seus resultados.
